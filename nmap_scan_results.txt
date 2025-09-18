@@ -6,5 +6,5 @@ Not shown: 1000 closed tcp ports (reset)
 Too many fingerprints match this host to give specific OS details
 Network Distance: 0 hops
 
-OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ 
 # Nmap done at Wed Sep 17 21:21:21 2025 -- 1 IP address (1 host up) scanned in 2.29 seconds
