@@ -1,5 +1,5 @@
 # OIBSIP
-Task 1: Basic Network Scanning with Nmap
+## Task 1: Basic Network Scanning with Nmap
 
 Project Overview This project I did demonstrates basic network scanning using Nmap to identify open ports and services on a local machine. Network scanning is a fundamental skill in cybersecurity for assessing network security posture and identifying potential vulnerabilities.
 
@@ -36,7 +36,7 @@ Port 25 (SMTP): Simple Mail Transfer Protocol - used for email transmission.
 
 
 
-Task 2: Basic Firewall Configuration with UFW
+## Task 2: Basic Firewall Configuration with UFW
 
 Project Overview
 
